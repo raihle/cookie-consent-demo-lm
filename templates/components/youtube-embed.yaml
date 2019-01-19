@@ -1,0 +1,4 @@
+title: youtube-embed
+renderType: freemarker
+templateScript: /cookie-consent-demo-lm/templates/components/youtube-embed.ftl
+dialog: cookie-consent-demo-lm:components/youtube-embed

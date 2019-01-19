@@ -1,0 +1,4 @@
+title: cookie-consent
+renderType: freemarker
+templateScript: /cookie-consent-demo-lm/templates/components/cookie-consent.ftl
+dialog: cookie-consent-demo-lm:components/cookie-consent

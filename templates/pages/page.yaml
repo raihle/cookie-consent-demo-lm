@@ -1,0 +1,13 @@
+title: page
+templateScript: /cookie-consent-demo-lm/templates/pages/page.ftl
+renderType: freemarker
+dialog: cookie-consent-demo-lm:pages/page
+visible: true
+
+areas:
+  main:
+    availableComponents:
+      cookie-consent:
+        id: cookie-consent-demo-lm:components/cookie-consent
+      youtube-embed:
+        id: cookie-consent-demo-lm:components/youtube-embed

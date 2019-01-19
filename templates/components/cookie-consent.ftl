@@ -1,0 +1,9 @@
+<cookie-consent
+  class="app__cookie-consent"
+  name="cookie-consent-name"
+  @level-selected="levelSelected"
+  @dismissed="dismissCookieConsent"
+  v-bind:initial-level="consentLevel"
+  v-show="displayConsentControl"
+>
+</cookie-consent>
